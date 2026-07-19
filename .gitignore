@@ -1,0 +1,14 @@
+# Build Artifacts
+scribehub
+run_tests
+*.o
+*.out
+*.log
+
+# Backups and Editor Files
+*~
+*.swp
+*.swo
+*.tmp
+*.txt
+!tests/*.txt
